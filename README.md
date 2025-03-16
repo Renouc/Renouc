@@ -1,6 +1,10 @@
+<!-- 顶部横幅图片 -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%"/>
+</div>
+
 <!-- 个人介绍 - 新的布局设计 -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/109504710?v=4" width="100" height="100" style="border-radius:50%; margin-right:10px" />
   <h1>👋 你好，我是 Renouc</h1>
   <h3>热爱编程与技术的开发者</h3>
   
