@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%"/>
-</div>
-
-<div align="center">
   <h1>Hi, I'm Renouc</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Vue+%7C+TypeScript;Exploring+Golang+%26+Backend" />
   <br/><br/>
@@ -31,10 +27,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Renouc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" height="160" />
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=Renouc&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" height="160" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
